@@ -39,4 +39,4 @@ Una vez instalado Cypress, puedes abrirlo ejecutando el siguiente comando en tu 
    _npx cypress open_
    
 Esto iniciará Cypress y abrirá su interfaz de usuario. Cypress creará una estructura de archivos básica si es la primera vez que lo ejecutas.
-Selecciona la carpeta donde se encuentran los scripts **(Para ejecutar las pruebas seleccionar la carpeta donde se descargo el repo y dirigirse a la carpeta e2e)** donde solo basta seleecioinar cualquier de los scripts para que se ejecute.
+Selecciona la carpeta donde se encuentran los scripts **(Para ejecutar las pruebas seleccionar la carpeta donde se descargo el repo y dirigirse a la carpeta e2e)** donde solo basta seleccionar cualquier de los scripts para que se ejecute.
